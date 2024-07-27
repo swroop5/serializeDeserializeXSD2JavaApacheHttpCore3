@@ -1,0 +1,1 @@
+# serializeDeserializeXSD2JavaApacheHttpCore3
